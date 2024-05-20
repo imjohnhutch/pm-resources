@@ -38,6 +38,7 @@ Templates are in `/templates/`.
 - [Shape Up — Basecamp](https://basecamp.com/shapeup)
 - [Reforge](https://www.reforge.com/blog)
 - [First Round Review](https://review.firstround.com/)
+- [Shreyas Doshi threads](https://twitter.com/shreyas) — high signal on PM craft
 
 ---
 
