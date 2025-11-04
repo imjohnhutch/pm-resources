@@ -43,3 +43,7 @@ Templates are in `/templates/`.
 ---
 
 *This is a personal reference, not a polished resource. YMMV.*
+
+## Notes on usage
+
+These templates are starting points, not constraints. I adapt them for each situation — a lightweight feature might only need the one-pager, while a major initiative gets the full PRD + research plan. The goal is to write just enough to align the team, not to produce documentation for its own sake.
