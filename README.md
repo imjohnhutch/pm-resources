@@ -6,13 +6,12 @@ A personal collection of templates, frameworks, and links I keep coming back to.
 
 | Template | What it is |
 |---|---|
-| PRD | Standard product requirements doc — problem, goals, scope, open Qs |
-| One-pager | Lightweight brief for early-stage ideas |
-| Research plan | Interview and usability study planning |
-| Launch checklist | Pre-launch and post-launch steps |
-| Retro | Sprint and launch retrospective format |
-
-Templates are in `/templates/`.
+| [PRD](templates/prd-template.md) | Standard product requirements doc — problem, goals, scope, open Qs |
+| [One-pager](templates/one-pager-template.md) | Lightweight brief for early-stage ideas |
+| [Research plan](templates/research-plan-template.md) | Interview and usability study planning |
+| [Launch checklist](templates/launch-checklist-template.md) | Pre-launch, launch-day, and post-launch steps |
+| [Retro](templates/retro-template.md) | Sprint and launch retrospective format |
+| [Product teardown](templates/product-teardown-template.md) | Structured analysis of someone else's product — onboarding, core loop, what to steal |
 
 ## Frameworks I Use
 
